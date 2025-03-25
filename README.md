@@ -1,7 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=0000FF&center=true&width=1000&height=200&lines=POWER BY NIRO MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=0000FF&center=true&width=1000&height=200&lines=POWER BY DASSA" alt="Typing SVG" /></a>
   </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.ibb.co/p6v1dc6w/image-1742790261707.jpg'/></a>
+<a><img src='https://files.catbox.moe/c0ncbg.jpg'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
@@ -19,7 +19,7 @@
 
 <div align="center">
   <h3>📞 Support & Updates</h3>
-  <a href="https://Wa.me//+94762296665">
+  <a href="https://Wa.me//+94743277981">
     <img src="https://img.shields.io/badge/OWNER_NUMBER -128C7E?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
