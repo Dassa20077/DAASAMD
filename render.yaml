@@ -1,7 +1,7 @@
 
 services:
   - type: web
-    name: niro-md
+    name: dassa-md
     env: node
     buildCommand: npm install
     startCommand: npm start
